@@ -1,0 +1,30 @@
+ * {
+    outline: 1px solid red;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+.flipper{
+background-image: url(/pracfolder/img/nice.jpg); 
+text-align: center;
+justify-content: center;
+top: 200px;
+left: 450px;
+font-size: 25px;
+overflow: auto;
+}
+#tab{
+    position: fixed;
+    left:475px;
+    top: 210px;
+    justify-content: center;
+    text-align: center;
+}
+
+#booty{
+    width: 50px;
+}
+
