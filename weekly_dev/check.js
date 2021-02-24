@@ -14,4 +14,5 @@ window.addEventListener('load',
     cell2.innerHTML = amount;
     cell3.innerHTML = math;
     cell4.innerHTML = d;
+    /* test  */
   });
